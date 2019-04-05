@@ -1,0 +1,16 @@
+body {
+background-color: #f2e9d2;
+}
+
+h1 {
+  font-family: sans-serif;
+  font-size: 25px;
+}
+
+.toptags {
+  text-align: center;
+}
+.toptags > div {
+  vertical-align: top;
+  display: inline-block;
+}
