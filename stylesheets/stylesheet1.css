@@ -4,7 +4,7 @@ background-color: white;
 
 
 .container {
-  font-family: sans-serif;
+  font-family: helvetica;
   font-size: 25px;
   text align: center;
   float: center;
@@ -21,7 +21,7 @@ background-color: white;
 
 li a:hover {
   text-decoration: none;
-  background-color: #6cd134;
+  background-color: #ffffff;
 }
 
 .bottomtags {
@@ -31,7 +31,6 @@ li a:hover {
   font-size: 20px;
   display: table;
   margin: 0 auto;
-  font-weight: bold;
 }
 
 ul {
