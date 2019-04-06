@@ -1,12 +1,12 @@
 body {
-background-color: white;
+background-color: #f2f1ed;
 font-family: sans-serif;
 font-size: 25px;
 border-style: solid;
     border-width: 8px;
     border-left-width: 8px;
     border-right-width: 8px;
-    border-color: #6cd134;
+    border-color: #57a82f;
 }
 
 <span class="border border-success"></span>
@@ -32,7 +32,7 @@ border-style: solid;
 
 li a:hover {
   text-decoration: none;
-  background-color: #6cd134;
+  background-color: #b6f285;
 }
 
 .bottomtags {
@@ -43,6 +43,11 @@ li a:hover {
   display: table;
   margin: 0 auto;
   font-weight: bold;
+  border-style: solid;
+      border-width: 3px;
+      border-left-width: 0px;
+      border-right-width: 0px;
+      border-color: #57a82f;
 }
 
 
