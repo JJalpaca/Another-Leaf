@@ -2,15 +2,38 @@ body {
 background-color: #f2e9d2;
 }
 
-h1 {
-  font-family: sans-serif;
+
+.container {
+  font-family: helvetica;
   font-size: 25px;
+  text align: center;
+  float: center;
 }
 
-.toptags {
-  text-align: center;
+.logo{
+  align-items: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
 }
-.toptags > div {
-  vertical-align: top;
-  display: inline-block;
+
+.container li a:hover {
+  text-decoration: none;
+}
+
+.container .toptags {
+  text-align: center;
+  margin-bottom: 0 ;
+  padding-left: 0;
+}
+
+.container .bottomtags {
+  text-align: center;
+  margin-bottom: 0 ;
+  padding-left: 0;
+  color: #000000;
+    font-size: 20px;
+    display: block;
+    text-transform: uppercase;
 }
