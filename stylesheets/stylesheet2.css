@@ -2,4 +2,37 @@ body {
 background-color: #f2f1ed;
 font-family: sans-serif;
 font-size: 25px;
+background-color: #f2f1ed;
+font-family: sans-serif;
+font-size: 25px;
+border-style: solid;
+    border-width: 8px;
+    border-left-width: 8px;
+    border-right-width: 8px;
+    border-color: #57a82f;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  background-color: #b6f285;
+}
+
+p {
+  font-size: 20px;
+}
+
+.logo {
+  align-items: left;
+
+}
+
+.team {
+  align: middle;
+  width: 50%;
+  margin-left: 25%;
+  margin-right: 25%;
+
 }
