@@ -41,12 +41,16 @@ p {
   width: 40%;
 }
 
+.info {
+  width: 50%;
+  margin: 0 auto;
+}
+
 .team {
   align: middle;
   width: 50%;
   margin-left: 25%;
   margin-right: 25%;
-
 }
 
 #origins {
